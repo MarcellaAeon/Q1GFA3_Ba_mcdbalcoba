@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Your Gallery - Home</title>
+
+</head>
+
+
+
+<body class="page1">
+
+    <header>
+
+        <nav>
+
+            <div class="logo">
+
+                <img src="">
+
+            </div>
+
+            <ul class="navbar">
+
+                <li><a href="index.html">Home</a></li>
+
+                <li><a href="intro.html">Kntroduction</a></li>
+
+                <li><a href="report.html">Backgroun</a></li>
+
+                <li><a href="gallery.html">Data</a></li>
+
+                <li><a href="gallery.html">References</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    
+
+    <main>
+
+        <section class="banner">
+
+            <h1>
+
+                placeholder
+
+            </h1>
+
+            
+
+        </section>
+
+        <div class="content">
+
+            <div class="text-container">
+
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam voluptatum illum consectetur omnis asperiores minima, nulla dolor facere voluptas explicabo quo reiciendis repudiandae iure necessitatibus reprehenderit, ipsam numquam suscipit unde.
+
+            </div>
+
+            <div class="image-container">
+
+                <img src="" alt="">
+
+            </div>
+
+        </div>
+
+    </main>
+
+    
+
+    <footer>
+
+        <div class="copyright">
+
+            Marcella Aeon. All rights reserved 2023
+
+            
+
+        </div>
+
+        <div class="left">
+
+            <a href="about.html">about</a>
+
+            </div>
+
+        
+
+        <div class="social-links">
+
+            <a href=""><img src=""></a>
+
+            <a href=""><img src=""></a>
+
+            <a href=""><img src=""></a>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
